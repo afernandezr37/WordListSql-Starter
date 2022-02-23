@@ -5,7 +5,9 @@
       <map>
         <entry key="app/src/main/res/layout/activity_edit_word.xml" value="0.30978260869565216" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.1" />
         <entry key="app/src/main/res/layout/wordlist_item.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
